@@ -1,4 +1,4 @@
-# Uni House
+# UniHouse
 Projeto - Tópicos Avançados de Engenharia de Software / Gestão de Projetos de Software - CC7532<br/>
 Grupo G e 6<br/><br/>
 Bruno Umeoka Higuti             - R.A: 22.121.082-6<br/>
